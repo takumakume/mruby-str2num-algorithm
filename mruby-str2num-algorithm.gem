@@ -1,0 +1,6 @@
+name: mruby-str2num-algorithm
+description: StrToNum class
+author: takumakume
+website: https://github.com/takumakume/mruby-str2num-algorithm
+protocol: git
+repository: https://github.com/takumakume/mruby-str2num-algorithm.git
